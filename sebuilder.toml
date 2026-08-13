@@ -1,0 +1,7 @@
+[game]
+name = "Hopper Heros Everywhere!"
+description = "Hopper Heros by pepper-prepper"
+author = "Dogo2009 and pepper-prepper"
+
+[assets]
+sb3 = "project.sb3"
